@@ -77,7 +77,7 @@ Modify `scr_prp.py` to:
 5. Create a Pull Request
 
 ## License
-[Choose an appropriate license, e.g., MIT]
+MIT
 
 ## Disclaimer
 Ensure you have permission to scrape websites. Respect websites' terms of service and legal guidelines.
