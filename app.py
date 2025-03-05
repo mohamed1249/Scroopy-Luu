@@ -62,6 +62,9 @@ def scrape(urls, sub_contents_bools):
     errors = []
 
     for url, scb in zip(urls, sub_contents_bools):
+        
+        url = url.strip()
+
         add_log(f"Starting to process: {url}")
         
         # Scrape the content of the page
